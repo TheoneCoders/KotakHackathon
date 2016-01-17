@@ -8,36 +8,36 @@ DEMO DETAILS  <br />
 Download android app :  http://aitplacements.com/code/app-debug.apk     <br /> <br />
 
 As a Parent login with  <br />
-                    Username : rohit   <br />
-                    Password  : jyoti    <br />
+ ____________________                   Username : rohit   <br />
+ ____________________                   Password  : jyoti    <br />
  <br />
 As a Child login with 
-                   Username : Vivek
-                   Password  : jyoti
-
-Also as a parent you can create more child account :)
-Sit Back and Relax, Enjoying Features...
-
-Also for backend :       https://mongolab.com/
-Username : theoneCoders
-Password  : poonam
-
-
+  ________________                 Username : Vivek  <br />
+  _________________                 Password  : jyoti  <br />
+<br />
+Also as a parent you can create more child account :)  <br />
+Sit Back and Relax, Enjoying Features...  <br />
+<br />
+Also for backend :       https://mongolab.com/    <br />
+Username : theoneCoders     <br />
+Password  : poonam      <br />
+<br />
+<br />
 ———————————————————————————————————————————
+<br />
+<br />
+Kotak Fintech Mobility Hackathon <br />
 
+Now a days with the digitalization of banking, it is not new to hear of a virtual wallet. <br />
+So what is we have different?  <br />
+This android app not only make transaction easy, but it also scare away the ghost of parenting.How We will tell you...Having Banking Experiences at early age stage  <br />
 
-Kotak Fintech Mobility Hackathon
-
-Now a days with the digitalization of banking, it is not new to hear of a virtual wallet.
-So what is we have different?
-This android app not only make transaction easy, but it also scare away the ghost of parenting.How We will tell you...Having Banking Experiences at early age stage 
-
-1. Money Matters
-      : Pocket Money allocation
-      : Importance of saving money
+1. Money Matters  <br />
+      : Pocket Money allocation  <br />
+      : Importance of saving money  <br />
       : Easy & transparent accounting
-
-2. Moral Matters
-      : Goal setting and training
-      : Hard Work
-      : Pride for parent and Children both
+<br /><br />
+2. Moral Matters  <br />
+      : Goal setting and training <br />
+      : Hard Work <br />
+      : Pride for parent and Children both<br />
