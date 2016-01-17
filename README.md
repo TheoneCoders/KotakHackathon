@@ -8,12 +8,12 @@ DEMO DETAILS  <br />
 Download android app :  http://aitplacements.com/code/app-debug.apk     <br /> <br />
 
 As a Parent login with  <br />
- ____________________                   Username : rohit   <br />
- ____________________                   Password  : jyoti    <br />
+                 Username : rohit   <br />
+                  Password  : jyoti    <br />
  <br />
 As a Child login with 
-  ________________                 Username : Vivek  <br />
-  _________________                 Password  : jyoti  <br />
+             Username : Vivek  <br />
+               Password  : jyoti  <br />
 <br />
 Also as a parent you can create more child account :)  <br />
 Sit Back and Relax, Enjoying Features...  <br />
