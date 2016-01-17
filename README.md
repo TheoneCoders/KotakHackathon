@@ -2,14 +2,15 @@
 
 
 
-DEMO DETAILS
-———————————————————————————————————————————
+DEMO DETAILS  <br />
+———————————————————————————————————————————  <br />
+ <br />
+Download android app :  http://aitplacements.com/code/app-debug.apk     <br /> <br />
 
-Download android app :  http://aitplacements.com/code/app-debug.apk
-As a Parent login with
-                    Username : rohit
-                    Password  : jyoti
-
+As a Parent login with  <br />
+                    Username : rohit   <br />
+                    Password  : jyoti    <br />
+ <br />
 As a Child login with 
                    Username : Vivek
                    Password  : jyoti
